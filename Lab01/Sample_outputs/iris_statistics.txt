@@ -1,0 +1,32 @@
+--- All species statistics ---
+                         Sepal length             Sepal width              Petal length             Petal width              
+Average:                 5.843333333              3.054                    3.758666667              1.198666667              
+Standard deviation:      0.083269039              0.080135797              0.129970609              0.100568982              
+
+
+--- Iris-setosa statistics ---
+                         Sepal length             Sepal width              Petal length             Petal width              
+Average:                 5.006                    3.418                    1.464                    0.244                    
+Standard deviation:      0.141127584              0.135754498              0.138319063              0.139281148              
+
+
+--- Iris-versicolor statistics ---
+                         Sepal length             Sepal width              Petal length             Petal width              
+Average:                 5.936                    2.77                     4.26                     1.326                    
+Standard deviation:      0.130314715              0.142899414              0.133792755              0.140152745              
+
+
+--- Iris-virginica statistics ---
+                         Sepal length             Sepal width              Petal length             Petal width              
+Average:                 6.588                    2.974                    5.552                    2.026                    
+Standard deviation:      0.111419365              0.142701451              0.120915568              0.130767135              
+
+
+Minimum standard variation: 0.11653267575 -> best measure: Sepal length
+
+
+Input values: [5.2, 3.1, 4.0, 1.2] -> Iris-versicolor: [5.936, 2.77, 4.26, 1.326]
+
+Input values: [4.9, 2.5, 5.6, 2.0] -> Iris-virginica: [6.588, 2.974, 5.552, 2.026]
+
+Input values: [5.4, 3.2, 1.9, 0.4] -> Iris-setosa: [5.006, 3.418, 1.464, 0.244]
